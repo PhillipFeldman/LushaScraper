@@ -1,0 +1,1 @@
+The purpose of this project is to scrape company contacy information off of Lusha.com for a particular client.  Thus, the code is tailored specifically to meet their needs and skillset, and may not be applicable to yours.
